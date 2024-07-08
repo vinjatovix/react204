@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "vinjatovix",
+    "name": "Pablo Viña",
+    "isFollowing": true
+  },
+  {
+    "id": 2,
+    "username": "microbode",
+    "name": "Bodegas",
+    "isFollowing": true
+  },
+  {
+    "id": 3,
+    "username": "pity",
+    "name": "Pity Rodriguez",
+    "isFollowing": false
+  }
+]
