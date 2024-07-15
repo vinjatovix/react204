@@ -1,33 +1,11 @@
-import { createContext, useState } from "react";
+import { createContext } from "react";
 import PropTypes from "prop-types";
+import useCartReducer from "../hooks/useCartReducer";
 
 export const CartContext = createContext({});
 
 export const CartProvider = ({ children }) => {
-  const [cart, setCart] = useState([]);
-
-  const addToCart = (product) => {
-    const productInCartIndex = cart.findIndex((p) => p.id === product.id);
-
-    if (productInCartIndex >= 0) {
-      const newCart = structuredClone(cart);
-      newCart[productInCartIndex].quantity += 1;
-      setCart(newCart);
-      return;
-    }
-
-    setCart((prevState) => [...prevState, { ...product, quantity: 1 }]);
-  };
-
-  const removeFromCart = (productId) => {
-    setCart((prevState) =>
-      prevState.filter((product) => product.id !== productId)
-    );
-  };
-
-  const clearCart = () => {
-    setCart([]);
-  };
+  const { cart, addToCart, removeFromCart, clearCart } = useCartReducer();
 
   return (
     <CartContext.Provider
