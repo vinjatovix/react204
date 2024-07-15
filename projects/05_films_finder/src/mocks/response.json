@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Athadu Ame Priyudu",
+      "Year": "2022",
+      "imdbID": "tt17250160",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU3NjVjZDgtYmM0MS00MTJjLTkyNmMtNTVhZjU0YjRlMzdiXkEyXkFqcGdeQXVyMTIxMTQ3MDAx._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ame no machi",
+      "Year": "2006",
+      "imdbID": "tt0496223",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc2Mzg4MjQ4NV5BMl5BanBnXkFtZTgwNDMwMDAxMzE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Okinawa: Urizun no ame",
+      "Year": "2015",
+      "imdbID": "tt4679062",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmM4YjIyY2QtMWY1Yy00NjA1LThkNzItMjM1M2QzNDc5YWYxXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Shizukana ame",
+      "Year": "2019",
+      "imdbID": "tt12152790",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ1MmQ3NjYtZDI2My00ODIzLTljMDAtMjMwYjk4MGQ3N2NiXkEyXkFqcGdeQXVyMzEzMzY3Ng@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ame ni sakebeba",
+      "Year": "2021",
+      "imdbID": "tt15742538",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDljNDA2MzEtZDVlNS00MDc1LTk2ZmQtNzYwZTEzNjRhZTViXkEyXkFqcGdeQXVyMTE5NTM5NTU5._V1_SX300.jpg"
+    },
+    {
+      "Title": "Âme d'artiste",
+      "Year": "1924",
+      "imdbID": "tt0016564",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjM5NjhjZTctZWYzOC00NGIyLWJjY2UtNWI3NWRjN2Q3OWI5XkEyXkFqcGdeQXVyMDM1MzIyMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Jâman + Ame",
+      "Year": "2007",
+      "imdbID": "tt1209408",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyY2NiZjUtMzQyYS00OGE5LTg5ZGYtMThjM2U2MWNiYjg1XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Hikari no ame",
+      "Year": "2001",
+      "imdbID": "tt0299982",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ0MGYwZDItZmVkYi00YzI2LWE2M2MtNjlkYjlmNDgxNGMxXkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_SX300.jpg"
+    },
+    {
+      "Title": "John Huston, une âme libre",
+      "Year": "2021",
+      "imdbID": "tt16274698",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MTZmODAtYzg1MS00NzRjLWE3ZWYtODUxZWJmOTk0NDdmXkEyXkFqcGdeQXVyMjIwNjIxNjc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Hori-san to Miyamura-kun: Totsuzen no ame",
+      "Year": "2014",
+      "imdbID": "tt5540826",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODdmN2YyMTAtNjUzMC00Y2Q1LWFiYTQtYTc3OTkyMWQ3MjBmXkEyXkFqcGdeQXVyNTY0NDkzNDc@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "121",
+  "Response": "True"
+}
