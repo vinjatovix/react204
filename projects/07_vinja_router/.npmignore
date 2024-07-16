@@ -1,0 +1,7 @@
+/src
+vite.config.js 
+index.html  
+README.md 
+.swcrc 
+.eslintrc.cjs 
+package-lock.json
